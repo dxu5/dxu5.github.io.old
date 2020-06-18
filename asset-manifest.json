@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.277aa55d.chunk.css",
+    "main.js": "/static/js/main.a196bbc5.chunk.js",
+    "main.js.map": "/static/js/main.a196bbc5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.631d1daf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.631d1daf.js.map",
+    "static/js/2.8604bb3e.chunk.js": "/static/js/2.8604bb3e.chunk.js",
+    "static/js/2.8604bb3e.chunk.js.map": "/static/js/2.8604bb3e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bc31abfde7a819a88794a3b6c06edb23.js": "/precache-manifest.bc31abfde7a819a88794a3b6c06edb23.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.277aa55d.chunk.css.map": "/static/css/main.277aa55d.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Brown-University-logo.jpg": "/static/media/Brown-University-logo.aa2b294a.jpg",
+    "static/media/covid3.png": "/static/media/covid3.9436f4d0.png",
+    "static/media/derekfb.jpg": "/static/media/derekfb.aaef3e19.jpg",
+    "static/media/dxsorting2.png": "/static/media/dxsorting2.3ba289f9.png",
+    "static/media/dxvoyage2.png": "/static/media/dxvoyage2.1f841d82.png",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/profile-picture.png": "/static/media/profile-picture.37e59265.png",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.0288c5ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.631d1daf.js",
+    "static/js/2.8604bb3e.chunk.js",
+    "static/css/main.277aa55d.chunk.css",
+    "static/js/main.a196bbc5.chunk.js"
+  ]
+}
