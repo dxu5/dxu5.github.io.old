@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.277aa55d.chunk.css",
-    "main.js": "/static/js/main.a196bbc5.chunk.js",
-    "main.js.map": "/static/js/main.a196bbc5.chunk.js.map",
+    "main.css": "/static/css/main.ddae5011.chunk.css",
+    "main.js": "/static/js/main.a894a68f.chunk.js",
+    "main.js.map": "/static/js/main.a894a68f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.631d1daf.js",
     "runtime-main.js.map": "/static/js/runtime-main.631d1daf.js.map",
-    "static/js/2.8604bb3e.chunk.js": "/static/js/2.8604bb3e.chunk.js",
-    "static/js/2.8604bb3e.chunk.js.map": "/static/js/2.8604bb3e.chunk.js.map",
+    "static/js/2.42b1e948.chunk.js": "/static/js/2.42b1e948.chunk.js",
+    "static/js/2.42b1e948.chunk.js.map": "/static/js/2.42b1e948.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bc31abfde7a819a88794a3b6c06edb23.js": "/precache-manifest.bc31abfde7a819a88794a3b6c06edb23.js",
+    "precache-manifest.f12b38accba2abc817697c7b65ec4316.js": "/precache-manifest.f12b38accba2abc817697c7b65ec4316.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.277aa55d.chunk.css.map": "/static/css/main.277aa55d.chunk.css.map",
+    "static/css/main.ddae5011.chunk.css.map": "/static/css/main.ddae5011.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Brown-University-logo.jpg": "/static/media/Brown-University-logo.aa2b294a.jpg",
     "static/media/covid3.png": "/static/media/covid3.9436f4d0.png",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.631d1daf.js",
-    "static/js/2.8604bb3e.chunk.js",
-    "static/css/main.277aa55d.chunk.css",
-    "static/js/main.a196bbc5.chunk.js"
+    "static/js/2.42b1e948.chunk.js",
+    "static/css/main.ddae5011.chunk.css",
+    "static/js/main.a894a68f.chunk.js"
   ]
 }
