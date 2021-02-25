@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f4c47f2fae6d426e844a4a0bbc6efad",
+    "revision": "570c6fc1243deb7bec57d487aa5a1915",
     "url": "/index.html"
   },
   {
-    "revision": "31ff5270c84c6e2d4c17",
+    "revision": "a82e7ca36228c4f92fb4",
     "url": "/static/css/main.cc20a814.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.87084c39.chunk.js"
   },
   {
-    "revision": "31ff5270c84c6e2d4c17",
-    "url": "/static/js/main.68c634a8.chunk.js"
+    "revision": "a82e7ca36228c4f92fb4",
+    "url": "/static/js/main.116e9ce8.chunk.js"
   },
   {
     "revision": "d6881c1f1b8b59649ebd",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "cca8dfb47b576af5c2fa58019c5f8423",
+    "url": "/static/media/Bloomberg.cca8dfb4.jpeg"
   },
   {
     "revision": "aa2b294ac1758698188bb94cdcfa2472",

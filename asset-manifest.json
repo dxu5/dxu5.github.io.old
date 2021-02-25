@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.cc20a814.chunk.css",
-    "main.js": "/static/js/main.68c634a8.chunk.js",
-    "main.js.map": "/static/js/main.68c634a8.chunk.js.map",
+    "main.js": "/static/js/main.116e9ce8.chunk.js",
+    "main.js.map": "/static/js/main.116e9ce8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.631d1daf.js",
     "runtime-main.js.map": "/static/js/runtime-main.631d1daf.js.map",
     "static/js/2.87084c39.chunk.js": "/static/js/2.87084c39.chunk.js",
     "static/js/2.87084c39.chunk.js.map": "/static/js/2.87084c39.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.740cff7b69655ab9e3a5bc136013d1ce.js": "/precache-manifest.740cff7b69655ab9e3a5bc136013d1ce.js",
+    "precache-manifest.f1d88875962e6674499eef2ab47ef3cd.js": "/precache-manifest.f1d88875962e6674499eef2ab47ef3cd.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.cc20a814.chunk.css.map": "/static/css/main.cc20a814.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Bloomberg.jpeg": "/static/media/Bloomberg.cca8dfb4.jpeg",
     "static/media/Brown-University-logo.jpg": "/static/media/Brown-University-logo.aa2b294a.jpg",
     "static/media/covid3.png": "/static/media/covid3.9436f4d0.png",
     "static/media/derekfb.jpg": "/static/media/derekfb.aaef3e19.jpg",
@@ -27,6 +28,6 @@
     "static/js/runtime-main.631d1daf.js",
     "static/js/2.87084c39.chunk.js",
     "static/css/main.cc20a814.chunk.css",
-    "static/js/main.68c634a8.chunk.js"
+    "static/js/main.116e9ce8.chunk.js"
   ]
 }
